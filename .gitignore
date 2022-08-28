@@ -1,1 +1,5 @@
+.idea/*
 jenkins/*
+vendor/*
+
+composer.lock
